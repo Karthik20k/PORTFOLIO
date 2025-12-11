@@ -10,15 +10,15 @@ function Contact() {
         {
             icon: "📧",
             label: "Email",
-            value: "karthikeyanmuthukumaran04@gmail.com",
-            link: "mailto:karthikeyanmuthukumaran04@gmail.com",
+            value: "karthikeyan20092004@gmail.com",
+            link: "mailto:karthikeyan20092004@gmail.com",
             color: "from-red-500 to-orange-500"
         },
         {
             icon: "💼",
             label: "LinkedIn",
             value: "Karthikeyan Muthukumaran",
-            link: "https://linkedin.com/in/karthikeyan-muthukumaran",
+            link: "https://www.linkedin.com/in/karthikeyan2009/",
             color: "from-blue-500 to-cyan-500"
         }
     ]

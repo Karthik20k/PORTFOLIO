@@ -10,15 +10,15 @@ function Footer() {
         {
             icon: "📧",
             label: "Email",
-            value: "karthikeyanmuthukumaran04@gmail.com",
-            link: "mailto:karthikeyanmuthukumaran04@gmail.com",
+            value: "karthikeyan20092004@gmail.com",
+            link: "mailto:karthikeyan20092004@gmail.com",
             color: "from-red-500 to-orange-500"
         },
         {
             icon: "💼",
             label: "LinkedIn",
             value: "Karthikeyan Muthukumaran",
-            link: "https://linkedin.com/in/karthikeyan-muthukumaran",
+            link: "https://www.linkedin.com/in/karthikeyan2009/",
             color: "from-blue-500 to-cyan-500"
         }
     ]
@@ -59,7 +59,7 @@ function Footer() {
                     </p>
 
                     <a
-                        href="mailto:karthikeyanmuthukumaran04@gmail.com?subject=Hello from your Portfolio&body=Hi Karthikeyan,%0D%0A%0D%0AI visited your portfolio and wanted to reach out.%0D%0A%0D%0A"
+                        href="mailto:"
                         className="btn-primary inline-flex items-center gap-2 text-lg px-8 py-4"
                     >
                         <svg className="w-6 h-6" fill="currentColor" viewBox="0 0 20 20">
